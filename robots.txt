@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deb87ba3.companysetup.pages.dev/sitemap.xml
